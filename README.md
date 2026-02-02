@@ -16,6 +16,3 @@
 * **Core:** HTML5 Canvas API
 * **Math:** Trigonometry & Vector Physics
 * **UI:** Tailwind CSS
-
-## 🚀 Usage
-Open `index.html`. Move your mouse to interact. Click for shockwaves. Use the dock to change modes.
